@@ -1,0 +1,4 @@
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.Business\obj\Debug\net8.0\LMA.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.Business\obj\Debug\net8.0\LMA.Business.AssemblyInfoInputs.cache
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.Business\obj\Debug\net8.0\LMA.Business.AssemblyInfo.cs
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.Business\obj\Debug\net8.0\LMA.Business.csproj.CoreCompileInputs.cache

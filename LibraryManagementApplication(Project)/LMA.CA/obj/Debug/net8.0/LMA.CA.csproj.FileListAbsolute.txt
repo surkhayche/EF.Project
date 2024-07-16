@@ -1,0 +1,14 @@
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\bin\Debug\net8.0\LMA.CA.exe
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\bin\Debug\net8.0\LMA.CA.deps.json
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\bin\Debug\net8.0\LMA.CA.runtimeconfig.json
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\bin\Debug\net8.0\LMA.CA.dll
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\bin\Debug\net8.0\LMA.CA.pdb
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\LMA.CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\LMA.CA.AssemblyInfoInputs.cache
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\LMA.CA.AssemblyInfo.cs
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\LMA.CA.csproj.CoreCompileInputs.cache
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\LMA.CA.dll
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\refint\LMA.CA.dll
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\LMA.CA.pdb
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\LMA.CA.genruntimeconfig.cache
+C:\Users\surkh\source\repos\LibraryManagementApplication(Project)\LMA.CA\obj\Debug\net8.0\ref\LMA.CA.dll
